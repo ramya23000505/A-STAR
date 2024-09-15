@@ -1,5 +1,5 @@
 <h1>Ex 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Date:</h3>h3>
+<h3>Date:</h3> 
 <h3>Name: RAMYA R      </h3>
 <h3>Register Number:  212223230169        </h3>
 <H3>Aim:</H3>
